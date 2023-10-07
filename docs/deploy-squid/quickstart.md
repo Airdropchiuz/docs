@@ -1,4 +1,4 @@
----
+---.
 sidebar_position: 10
 description: Quickstart on how to deploy a squid
 ---
